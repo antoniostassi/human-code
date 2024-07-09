@@ -30,16 +30,13 @@ Scorri Catalogo
     Scegli Serie TV ->
         Cerca Genere ->
             SE Genere piace a tutti allora
-
                 Seleziona Serie 
                 SE Serie piace a tutti
                     Scegli Episodio 
                         Guarda
                 ALTRIMENTI
                     Torna a Seleziona Serie
-                    
             ALTRIMENTI
                 Torna a Cerca Genere
-
 Fine
 
