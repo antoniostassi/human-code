@@ -31,9 +31,9 @@ Scorri Catalogo
         Cerca Genere ->
             SE Genere piace a tutti allora
 
-                Seleziona Serie ->
+                Seleziona Serie 
                 SE Serie piace a tutti
-                    Scegli Episodio ->
+                    Scegli Episodio 
                         Guarda
                 ALTRIMENTI
                     Torna a Seleziona Serie
