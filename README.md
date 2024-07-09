@@ -27,7 +27,7 @@ Scorri Catalogo
     
 ALTRIMENTI
 Scorri Catalogo
-    Scegli Episodio Serie TV ->
+    Scegli Serie TV ->
         Cerca Genere ->
             SE Genere piace a tutti allora
 
